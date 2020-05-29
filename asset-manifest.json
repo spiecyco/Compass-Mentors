@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Compass-Mentors/static/css/main.dffa62cd.chunk.css",
-    "main.js": "/Compass-Mentors/static/js/main.0fad5467.chunk.js",
-    "main.js.map": "/Compass-Mentors/static/js/main.0fad5467.chunk.js.map",
-    "runtime-main.js": "/Compass-Mentors/static/js/runtime-main.05785c68.js",
-    "runtime-main.js.map": "/Compass-Mentors/static/js/runtime-main.05785c68.js.map",
-    "static/js/2.9bfd962e.chunk.js": "/Compass-Mentors/static/js/2.9bfd962e.chunk.js",
-    "static/js/2.9bfd962e.chunk.js.map": "/Compass-Mentors/static/js/2.9bfd962e.chunk.js.map",
-    "index.html": "/Compass-Mentors/index.html",
-    "precache-manifest.73f2f36e7925356df332ce50172befd9.js": "/Compass-Mentors/precache-manifest.73f2f36e7925356df332ce50172befd9.js",
-    "service-worker.js": "/Compass-Mentors/service-worker.js",
-    "static/css/main.dffa62cd.chunk.css.map": "/Compass-Mentors/static/css/main.dffa62cd.chunk.css.map",
-    "static/js/2.9bfd962e.chunk.js.LICENSE.txt": "/Compass-Mentors/static/js/2.9bfd962e.chunk.js.LICENSE.txt",
-    "static/media/Cocogoose_trial.otf": "/Compass-Mentors/static/media/Cocogoose_trial.d14035f6.otf",
-    "static/media/Example.png": "/Compass-Mentors/static/media/Example.eac5f1c8.png",
-    "static/media/arrow-ios-forward-outline.4c578dd7.svg": "/Compass-Mentors/static/media/arrow-ios-forward-outline.4c578dd7.svg",
-    "static/media/close-outline.a31f5edc.svg": "/Compass-Mentors/static/media/close-outline.a31f5edc.svg",
-    "static/media/compass-mentors-graphic.png": "/Compass-Mentors/static/media/compass-mentors-graphic.dc2f6caf.png",
-    "static/media/expand-menu.b18eaddd.svg": "/Compass-Mentors/static/media/expand-menu.b18eaddd.svg"
+    "main.css": "/static/css/main.dffa62cd.chunk.css",
+    "main.js": "/static/js/main.fc1de3a2.chunk.js",
+    "main.js.map": "/static/js/main.fc1de3a2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.313d4052.js",
+    "runtime-main.js.map": "/static/js/runtime-main.313d4052.js.map",
+    "static/js/2.c8df9e1f.chunk.js": "/static/js/2.c8df9e1f.chunk.js",
+    "static/js/2.c8df9e1f.chunk.js.map": "/static/js/2.c8df9e1f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a18afaa37d043ff82a5100448ba590e4.js": "/precache-manifest.a18afaa37d043ff82a5100448ba590e4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.dffa62cd.chunk.css.map": "/static/css/main.dffa62cd.chunk.css.map",
+    "static/js/2.c8df9e1f.chunk.js.LICENSE.txt": "/static/js/2.c8df9e1f.chunk.js.LICENSE.txt",
+    "static/media/Cocogoose_trial.otf": "/static/media/Cocogoose_trial.d14035f6.otf",
+    "static/media/Example.png": "/static/media/Example.eac5f1c8.png",
+    "static/media/arrow-ios-forward-outline.4c578dd7.svg": "/static/media/arrow-ios-forward-outline.4c578dd7.svg",
+    "static/media/close-outline.a31f5edc.svg": "/static/media/close-outline.a31f5edc.svg",
+    "static/media/compass-mentors-graphic.png": "/static/media/compass-mentors-graphic.dc2f6caf.png",
+    "static/media/expand-menu.b18eaddd.svg": "/static/media/expand-menu.b18eaddd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.05785c68.js",
-    "static/js/2.9bfd962e.chunk.js",
+    "static/js/runtime-main.313d4052.js",
+    "static/js/2.c8df9e1f.chunk.js",
     "static/css/main.dffa62cd.chunk.css",
-    "static/js/main.0fad5467.chunk.js"
+    "static/js/main.fc1de3a2.chunk.js"
   ]
 }
