@@ -1,5 +1,18 @@
+body {
+  background-color: #f3f3f7;
+  min-height: 100%;
+  padding-bottom: 100px;
+  position: relative;
+  overflow: auto;
+}
+
+html {
+  height: 100%;
+}
+
 .App {
   text-align: center;
+  background-color: #f3f3f7;
 }
 
 .App-logo {
