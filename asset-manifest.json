@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/static/css/main.107886cc.chunk.css",
-    "main.js": "/static/js/main.b7f9ddec.chunk.js",
-    "main.js.map": "/static/js/main.b7f9ddec.chunk.js.map",
+    "main.js": "/static/js/main.7a32d576.chunk.js",
+    "main.js.map": "/static/js/main.7a32d576.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.313d4052.js",
     "runtime-main.js.map": "/static/js/runtime-main.313d4052.js.map",
-    "static/js/2.bd1c468a.chunk.js": "/static/js/2.bd1c468a.chunk.js",
-    "static/js/2.bd1c468a.chunk.js.map": "/static/js/2.bd1c468a.chunk.js.map",
+    "static/js/2.dce1cf20.chunk.js": "/static/js/2.dce1cf20.chunk.js",
+    "static/js/2.dce1cf20.chunk.js.map": "/static/js/2.dce1cf20.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c509b800450d0b34b6541a2a2d81bc30.js": "/precache-manifest.c509b800450d0b34b6541a2a2d81bc30.js",
+    "precache-manifest.fceac0f34ee0ccd23cb17488429f3149.js": "/precache-manifest.fceac0f34ee0ccd23cb17488429f3149.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.107886cc.chunk.css.map": "/static/css/main.107886cc.chunk.css.map",
-    "static/js/2.bd1c468a.chunk.js.LICENSE.txt": "/static/js/2.bd1c468a.chunk.js.LICENSE.txt",
+    "static/js/2.dce1cf20.chunk.js.LICENSE.txt": "/static/js/2.dce1cf20.chunk.js.LICENSE.txt",
     "static/media/AndrewLum.png": "/static/media/AndrewLum.a6bf3c74.png",
     "static/media/CalebKim.jpg": "/static/media/CalebKim.2f968b80.jpg",
     "static/media/ChrisTseng.jpg": "/static/media/ChrisTseng.1500d3b5.jpg",
     "static/media/Cocogoose_trial.otf": "/static/media/Cocogoose_trial.d14035f6.otf",
     "static/media/DylanLee.jpg": "/static/media/DylanLee.bd534eb9.jpg",
-    "static/media/Example.png": "/static/media/Example.eac5f1c8.png",
     "static/media/JayYu.png": "/static/media/JayYu.a43317a9.png",
     "static/media/JeffreyYang.png": "/static/media/JeffreyYang.dde3a7cd.png",
     "static/media/Logo.png": "/static/media/Logo.d5e81531.png",
     "static/media/MadeleinedeBelloy.png": "/static/media/MadeleinedeBelloy.e898696e.png",
     "static/media/MinooKim.png": "/static/media/MinooKim.6d068c15.png",
     "static/media/RichardGao.jpg": "/static/media/RichardGao.d433397f.jpg",
+    "static/media/SkyeXu.jpeg": "/static/media/SkyeXu.a502c89a.jpeg",
     "static/media/arrow-ios-forward-outline.4c578dd7.svg": "/static/media/arrow-ios-forward-outline.4c578dd7.svg",
     "static/media/close-outline.a31f5edc.svg": "/static/media/close-outline.a31f5edc.svg",
     "static/media/compass-mentors-graphic.png": "/static/media/compass-mentors-graphic.eefb53bb.png",
@@ -33,8 +33,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.313d4052.js",
-    "static/js/2.bd1c468a.chunk.js",
+    "static/js/2.dce1cf20.chunk.js",
     "static/css/main.107886cc.chunk.css",
-    "static/js/main.b7f9ddec.chunk.js"
+    "static/js/main.7a32d576.chunk.js"
   ]
 }
