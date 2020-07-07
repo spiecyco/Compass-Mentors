@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.107886cc.chunk.css",
-    "main.js": "/static/js/main.4dd6dd17.chunk.js",
-    "main.js.map": "/static/js/main.4dd6dd17.chunk.js.map",
+    "main.js": "/static/js/main.4a50ecfa.chunk.js",
+    "main.js.map": "/static/js/main.4a50ecfa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.313d4052.js",
     "runtime-main.js.map": "/static/js/runtime-main.313d4052.js.map",
-    "static/js/2.25743bf5.chunk.js": "/static/js/2.25743bf5.chunk.js",
-    "static/js/2.25743bf5.chunk.js.map": "/static/js/2.25743bf5.chunk.js.map",
+    "static/js/2.48788976.chunk.js": "/static/js/2.48788976.chunk.js",
+    "static/js/2.48788976.chunk.js.map": "/static/js/2.48788976.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b579f2002aea4a63912bf97bc0e47cc0.js": "/precache-manifest.b579f2002aea4a63912bf97bc0e47cc0.js",
+    "precache-manifest.3695b70380cca105b468e1a4b15fc82d.js": "/precache-manifest.3695b70380cca105b468e1a4b15fc82d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.107886cc.chunk.css.map": "/static/css/main.107886cc.chunk.css.map",
-    "static/js/2.25743bf5.chunk.js.LICENSE.txt": "/static/js/2.25743bf5.chunk.js.LICENSE.txt",
+    "static/js/2.48788976.chunk.js.LICENSE.txt": "/static/js/2.48788976.chunk.js.LICENSE.txt",
     "static/media/AashiShah.jpeg": "/static/media/AashiShah.7e26b78b.jpeg",
     "static/media/AndrewLum.png": "/static/media/AndrewLum.a6bf3c74.png",
     "static/media/BiologyIcon.jpg": "/static/media/BiologyIcon.796fde53.jpg",
@@ -23,6 +23,7 @@
     "static/media/EliasLeventhal.jpeg": "/static/media/EliasLeventhal.55761a18.jpeg",
     "static/media/JayYu.png": "/static/media/JayYu.a43317a9.png",
     "static/media/JeffreyYang.png": "/static/media/JeffreyYang.dde3a7cd.png",
+    "static/media/JonathanFang.jpg": "/static/media/JonathanFang.0459627e.jpg",
     "static/media/Logo.png": "/static/media/Logo.d5e81531.png",
     "static/media/MadeleinedeBelloy.png": "/static/media/MadeleinedeBelloy.e898696e.png",
     "static/media/MichelleTo.jpg": "/static/media/MichelleTo.c70d02ef.jpg",
@@ -38,8 +39,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.313d4052.js",
-    "static/js/2.25743bf5.chunk.js",
+    "static/js/2.48788976.chunk.js",
     "static/css/main.107886cc.chunk.css",
-    "static/js/main.4dd6dd17.chunk.js"
+    "static/js/main.4a50ecfa.chunk.js"
   ]
 }
