@@ -1,25 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.107886cc.chunk.css",
-    "main.js": "/static/js/main.e4c005d5.chunk.js",
-    "main.js.map": "/static/js/main.e4c005d5.chunk.js.map",
+    "main.js": "/static/js/main.a389cb5f.chunk.js",
+    "main.js.map": "/static/js/main.a389cb5f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.313d4052.js",
     "runtime-main.js.map": "/static/js/runtime-main.313d4052.js.map",
-    "static/js/2.cc41e1d0.chunk.js": "/static/js/2.cc41e1d0.chunk.js",
-    "static/js/2.cc41e1d0.chunk.js.map": "/static/js/2.cc41e1d0.chunk.js.map",
+    "static/js/2.02088dc9.chunk.js": "/static/js/2.02088dc9.chunk.js",
+    "static/js/2.02088dc9.chunk.js.map": "/static/js/2.02088dc9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.dfb3ef8c21a621a9cab1102c9ef203fd.js": "/precache-manifest.dfb3ef8c21a621a9cab1102c9ef203fd.js",
+    "precache-manifest.8c2414bc4c476d4a9b4dcf6bc78f66ec.js": "/precache-manifest.8c2414bc4c476d4a9b4dcf6bc78f66ec.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.107886cc.chunk.css.map": "/static/css/main.107886cc.chunk.css.map",
-    "static/js/2.cc41e1d0.chunk.js.LICENSE.txt": "/static/js/2.cc41e1d0.chunk.js.LICENSE.txt",
+    "static/js/2.02088dc9.chunk.js.LICENSE.txt": "/static/js/2.02088dc9.chunk.js.LICENSE.txt",
     "static/media/AashiShah.jpeg": "/static/media/AashiShah.7e26b78b.jpeg",
     "static/media/AndrewLum.png": "/static/media/AndrewLum.a6bf3c74.png",
+    "static/media/AnushkaShah.jpg": "/static/media/AnushkaShah.24440bad.jpg",
     "static/media/CalebKim.jpg": "/static/media/CalebKim.2f968b80.jpg",
     "static/media/ChrisTseng.jpg": "/static/media/ChrisTseng.1500d3b5.jpg",
     "static/media/CindyNguyen.png": "/static/media/CindyNguyen.c460efc5.png",
     "static/media/Cocogoose_trial.otf": "/static/media/Cocogoose_trial.d14035f6.otf",
     "static/media/DylanLee.jpg": "/static/media/DylanLee.bd534eb9.jpg",
     "static/media/EliasLeventhal.jpeg": "/static/media/EliasLeventhal.55761a18.jpeg",
+    "static/media/IanZhang.png": "/static/media/IanZhang.86f047df.png",
     "static/media/JayYu.png": "/static/media/JayYu.a43317a9.png",
     "static/media/JeffreyYang.png": "/static/media/JeffreyYang.dde3a7cd.png",
     "static/media/JonathanFang.jpg": "/static/media/JonathanFang.0459627e.jpg",
@@ -38,8 +40,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.313d4052.js",
-    "static/js/2.cc41e1d0.chunk.js",
+    "static/js/2.02088dc9.chunk.js",
     "static/css/main.107886cc.chunk.css",
-    "static/js/main.e4c005d5.chunk.js"
+    "static/js/main.a389cb5f.chunk.js"
   ]
 }
