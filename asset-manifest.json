@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.107886cc.chunk.css",
-    "main.js": "/static/js/main.fe58f416.chunk.js",
-    "main.js.map": "/static/js/main.fe58f416.chunk.js.map",
+    "main.js": "/static/js/main.8ab538b6.chunk.js",
+    "main.js.map": "/static/js/main.8ab538b6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.313d4052.js",
     "runtime-main.js.map": "/static/js/runtime-main.313d4052.js.map",
-    "static/js/2.02088dc9.chunk.js": "/static/js/2.02088dc9.chunk.js",
-    "static/js/2.02088dc9.chunk.js.map": "/static/js/2.02088dc9.chunk.js.map",
+    "static/js/2.fd0d09d7.chunk.js": "/static/js/2.fd0d09d7.chunk.js",
+    "static/js/2.fd0d09d7.chunk.js.map": "/static/js/2.fd0d09d7.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ed84f425105d78e9022e2f9ff1bb4794.js": "/precache-manifest.ed84f425105d78e9022e2f9ff1bb4794.js",
+    "precache-manifest.590269bb4c803b5b326d3b4bcb987790.js": "/precache-manifest.590269bb4c803b5b326d3b4bcb987790.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.107886cc.chunk.css.map": "/static/css/main.107886cc.chunk.css.map",
-    "static/js/2.02088dc9.chunk.js.LICENSE.txt": "/static/js/2.02088dc9.chunk.js.LICENSE.txt",
+    "static/js/2.fd0d09d7.chunk.js.LICENSE.txt": "/static/js/2.fd0d09d7.chunk.js.LICENSE.txt",
     "static/media/AashiShah.jpeg": "/static/media/AashiShah.7e26b78b.jpeg",
+    "static/media/AlishaLy.jpg": "/static/media/AlishaLy.afe372c3.jpg",
     "static/media/AndrewLum.png": "/static/media/AndrewLum.a6bf3c74.png",
     "static/media/AnushkaShah.jpg": "/static/media/AnushkaShah.24440bad.jpg",
     "static/media/CalebKim.jpg": "/static/media/CalebKim.2f968b80.jpg",
@@ -30,6 +31,7 @@
     "static/media/MichelleTo.jpg": "/static/media/MichelleTo.c70d02ef.jpg",
     "static/media/MinooKim.png": "/static/media/MinooKim.6d068c15.png",
     "static/media/RichardGao.jpg": "/static/media/RichardGao.d433397f.jpg",
+    "static/media/SarahAlvarez.jpg": "/static/media/SarahAlvarez.1bfbecbf.jpg",
     "static/media/SkyeXu.jpeg": "/static/media/SkyeXu.4f8e4ade.jpeg",
     "static/media/arrow-ios-forward-outline.4c578dd7.svg": "/static/media/arrow-ios-forward-outline.4c578dd7.svg",
     "static/media/close-outline.a31f5edc.svg": "/static/media/close-outline.a31f5edc.svg",
@@ -40,8 +42,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.313d4052.js",
-    "static/js/2.02088dc9.chunk.js",
+    "static/js/2.fd0d09d7.chunk.js",
     "static/css/main.107886cc.chunk.css",
-    "static/js/main.fe58f416.chunk.js"
+    "static/js/main.8ab538b6.chunk.js"
   ]
 }
